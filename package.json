@@ -1,0 +1,11 @@
+{
+  "name": "react-axios-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "14metehan53",
+  "license": "ISC"
+}
